@@ -1,0 +1,11 @@
+/Users/aydincanaltun/Desktop/reactivies/Persistence/bin/Debug/netstandard2.1/Persistence.deps.json
+/Users/aydincanaltun/Desktop/reactivies/Persistence/bin/Debug/netstandard2.1/Persistence.dll
+/Users/aydincanaltun/Desktop/reactivies/Persistence/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/aydincanaltun/Desktop/reactivies/Persistence/bin/Debug/netstandard2.1/Domain.dll
+/Users/aydincanaltun/Desktop/reactivies/Persistence/bin/Debug/netstandard2.1/Domain.pdb
+/Users/aydincanaltun/Desktop/reactivies/Persistence/obj/Debug/netstandard2.1/Persistence.csprojAssemblyReference.cache
+/Users/aydincanaltun/Desktop/reactivies/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfoInputs.cache
+/Users/aydincanaltun/Desktop/reactivies/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfo.cs
+/Users/aydincanaltun/Desktop/reactivies/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CopyComplete
+/Users/aydincanaltun/Desktop/reactivies/Persistence/obj/Debug/netstandard2.1/Persistence.dll
+/Users/aydincanaltun/Desktop/reactivies/Persistence/obj/Debug/netstandard2.1/Persistence.pdb

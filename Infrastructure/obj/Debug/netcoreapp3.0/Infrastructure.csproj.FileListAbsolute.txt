@@ -1,0 +1,15 @@
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Infrastructure.deps.json
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Infrastructure.dll
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Infrastructure.pdb
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Application.dll
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Domain.dll
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Persistence.dll
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Application.pdb
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Domain.pdb
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/bin/Debug/netcoreapp3.0/Persistence.pdb
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.csprojAssemblyReference.cache
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.AssemblyInfo.cs
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.csproj.CopyComplete
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.dll
+/Users/aydincanaltun/Desktop/reactivies/Infrastructure/obj/Debug/netcoreapp3.0/Infrastructure.pdb

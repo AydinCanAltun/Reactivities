@@ -1,0 +1,13 @@
+/Users/aydincanaltun/Desktop/reactivies/Application/bin/Debug/netstandard2.1/Application.deps.json
+/Users/aydincanaltun/Desktop/reactivies/Application/bin/Debug/netstandard2.1/Application.dll
+/Users/aydincanaltun/Desktop/reactivies/Application/bin/Debug/netstandard2.1/Application.pdb
+/Users/aydincanaltun/Desktop/reactivies/Application/bin/Debug/netstandard2.1/Domain.dll
+/Users/aydincanaltun/Desktop/reactivies/Application/bin/Debug/netstandard2.1/Persistence.dll
+/Users/aydincanaltun/Desktop/reactivies/Application/bin/Debug/netstandard2.1/Domain.pdb
+/Users/aydincanaltun/Desktop/reactivies/Application/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/aydincanaltun/Desktop/reactivies/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/Users/aydincanaltun/Desktop/reactivies/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/Users/aydincanaltun/Desktop/reactivies/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/Users/aydincanaltun/Desktop/reactivies/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
+/Users/aydincanaltun/Desktop/reactivies/Application/obj/Debug/netstandard2.1/Application.dll
+/Users/aydincanaltun/Desktop/reactivies/Application/obj/Debug/netstandard2.1/Application.pdb
